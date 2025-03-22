@@ -16,7 +16,7 @@
 
 ## 安装方法
 
-1. 下载最新的 [vixen-scraper-1.0.jar](https://github.com/YOUR_USERNAME/vixen-scraper-tmm/releases/latest/download/vixen-scraper-1.0.jar)
+1. 下载最新的 [vixen-scraper-1.0.jar](https://github.com/1613358894/vixen-scraper-tmm/releases/latest/download/vixen-scraper-1.0.jar)
 2. 将JAR文件复制到tinyMediaManager的addons目录：
    - Windows: `C:\Program Files\tinyMediaManager\addons` 或 `安装目录\addons`
    - Mac: `/Applications/tinyMediaManager.app/Contents/Resources/app/addons`
